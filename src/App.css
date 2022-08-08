@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.frmPeticion{
+  margin:3rem;
+  margin-left: 25rem;
+  margin-right: 25rem;
+  padding: 2rem;
+  text-align: center;
+  background-color: antiquewhite;
+  border: 3px solid black;
+}
